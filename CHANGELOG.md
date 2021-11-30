@@ -1,3 +1,10 @@
+## [1.8.6](https://github.com/Bad3r/logseq-plugin-link-preview/compare/v1.8.5...v1.8.6) (2021-11-30)
+
+
+### Bug Fixes
+
+* updated vercel.app domain ([fd60bec](https://github.com/Bad3r/logseq-plugin-link-preview/commit/fd60becddf8ea2d1171f786bdcc5933881199506))
+
 ## [1.8.5](https://github.com/pengx17/logseq-plugin-link-preview/compare/v1.8.4...v1.8.5) (2021-11-30)
 
 
